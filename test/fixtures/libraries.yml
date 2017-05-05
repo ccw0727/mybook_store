@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bookName: MyString
+  intro: MyText
+  authorName: MyString
+  price: 1
+
+two:
+  bookName: MyString
+  intro: MyText
+  authorName: MyString
+  price: 1
